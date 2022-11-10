@@ -11,15 +11,15 @@ These notebooks contain various models for the sentiment analysis of both datase
 
 For this project, we have the choice between several embeddings:
 - Word emmbeddings:
-    - Pre-trained Glove
-    - Pre-trained Word2Vec
+    - Pre-trained Glove (glove.42B.300d.txt, https://www.kaggle.com/datasets/yutanakamura/glove42b300dtxt)
+    - Pre-trained Word2Vec (GoogleNews-vectors-negative300.bin, https://developer.syn.co.in/tutorial/bot/oscova/pretrained-vectors.html)
     - Word2Vec trained from our training set
-    - Pre-trained FastText
+    - Pre-trained FastText (wiki-news-300d-1M.vec, https://fasttext.cc/docs/en/english-vectors.html)
 - Document embedding:
     - Doc2Vec
     - Word2Vec averaged with TF-IDF
 
-We also have ht epossibility to choose between several RNN:
+We also have the possibility to choose between several RNN:
 - LSTM with attention
 - GRU with attention
 - LSTM without attention
