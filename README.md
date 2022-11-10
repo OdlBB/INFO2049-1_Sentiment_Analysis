@@ -1,5 +1,3 @@
-# INFO2049-1_Sentiment_Analysis
-
 # Summary
 This repository contains two experiment notebooks based on two different datasets : The IMDB reviews dataset (```IMDB SentimentAnalysis.ipynb```) and the Tweets dataset (```Twitter SentimentAnalysis.ipynb```). The goal of the experiments is to classify the sentiment of the reviews and tweets as positive or negative. 
 
@@ -92,7 +90,8 @@ In this section, several models are built. We have :
 - RNN (```RNN```)
 - Transformer using only attention (unreported, for information purposes.)
 - RNN with attention layer (```AttentiveRNN```)
-- RNN with attention for document embedding (```AttentiveRNN_doc_emb```)
+- RNN with attention for document embedding (```AttentiveRNN_Doc_emb```)
+- RNN for document embedding (```RNN_Doc_emb```)
 
 # Training
 
