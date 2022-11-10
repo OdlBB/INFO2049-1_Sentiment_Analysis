@@ -1,3 +1,7 @@
+# Git repository
+
+https://github.com/OdlBB/INFO2049-1_Sentiment_Analysis
+
 # Summary
 This repository contains two experiment notebooks based on two different datasets : The IMDB reviews dataset (```IMDB SentimentAnalysis.ipynb```) and the Tweets dataset (```Twitter SentimentAnalysis.ipynb```). The goal of the experiments is to classify the sentiment of the reviews and tweets as positive or negative. 
 
